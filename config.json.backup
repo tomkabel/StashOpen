@@ -1,0 +1,12 @@
+{
+  "stashurl": "http://localhost:9999/graphql",
+  "stashapikey": "",
+  "players": {
+    "vlc": "/usr/bin/vlc",
+    "mpv": "/usr/bin/mpv"
+  },
+  "paths": {
+    "/home/notroot/Allalaadimised/gdrive": "/home/notroot/Allalaadimised/gdrive",
+    "/srv/media/home/notroot/Downloads/GoogleDrive": "/srv/media/home/notroot/Downloads/GoogleDrive"
+  }
+}
